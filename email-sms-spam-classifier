@@ -1,0 +1,8 @@
+This project is being used to handle spam messages from EMAIL/SMS
+We will use NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP. 
+A lot of the data that you could be analyzing is unstructured data and contains human-readable text. 
+Before you can analyze that data programmatically, you first need to preprocess it using NLTK
+
+We are building machine learning program containing various classifier algorithm to test the accuracy and precision 
+
+Suitable algorithim we will use for deployment using Streamlit
