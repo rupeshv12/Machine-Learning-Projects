@@ -20,8 +20,10 @@
 Streamlit is an open source app framework in Python language.It helps us create web apps for data science and machine learning in a short time
 
 ### Create a new project in pycharm IDE and add file model1.pkl , vectorizer1.pkl, app.py(files are attached as well with this code)
-After above steps, run command in os terminal (streamlit run app.py) to see the website like structure 
+After above steps, run command in os terminal (streamlit run app.py)
+![image](https://user-images.githubusercontent.com/107261871/221483317-154d667e-bb59-467f-b84d-5494dfddccac.png)
 
+### Below webstie view will appear and we can predict the messages as well.
 ![image](https://user-images.githubusercontent.com/107261871/221482255-e1926f23-f175-45b9-b9a4-f6adc3ec0a59.png)
 
 
