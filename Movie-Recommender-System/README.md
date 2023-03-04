@@ -1,6 +1,6 @@
 # Movie Recommender System Project | Content Based Recommender System
 
-## Main purpose of this prjoect is to guess top 5 movies with their posters
+## Main purpose of this prjoect is to guess top 5 similar movies with their posters
 ![image](https://user-images.githubusercontent.com/107261871/222886677-560c05ae-0186-4e6d-8520-c9aa6c63845b.png)
 
 
