@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/107261871/222886677-560c05ae-0186-4e6d-8520-c9aa6c63845b.png)
 
 
-## All below steps are included in jupyter notebook - Movie-Recommender-System-Project.ipynb (file attached)
+## All below steps are included and clearly expliained in jupyter notebook - Movie-Recommender-System-Project.ipynb (file attached)
 * Gathering and Handling data
 * EDA - Data preprocessing
 * Text preprocessing
@@ -20,4 +20,6 @@
 * After above steps, run command in os terminal (streamlit run app.py)
 
 ![image](https://user-images.githubusercontent.com/107261871/222888038-a7797b88-86ff-471a-a290-65c032f9d076.png)
+
+![image](https://user-images.githubusercontent.com/107261871/222889973-668b8171-6551-442c-b7b8-336ce4347662.png)
 
