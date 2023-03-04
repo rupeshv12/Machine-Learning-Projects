@@ -13,8 +13,11 @@
 * Website using streamlit
 
 ## Create new project in pycharm IDE 
-### add all necessary file
+### Add all necessary files
 * similarity.pkl (to find the movie vector distance)
 * df_final_movies.pkl (containing final dataframe data)
-* app.py (Contain all pycharm logic)
-After above steps, run command in os terminal (streamlit run app.py)
+* app.py (Contain all logic in Pycharm and streamlit code to display top 5 movie code)
+* After above steps, run command in os terminal (streamlit run app.py)
+
+![image](https://user-images.githubusercontent.com/107261871/222888038-a7797b88-86ff-471a-a290-65c032f9d076.png)
+
